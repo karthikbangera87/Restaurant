@@ -1,7 +1,7 @@
 # RESTAURANT RESERVATION SYSTEM
 
 
-#### Currently in development
+#### Currently in development in branch module-ui
 
 The restaurant reservation system is a web application that simulates the functionality of providing reservations to different customers of the restaurant, as well as provide an interface to restaurant owners in-order to view reservation metrics of their restaurant.
 
